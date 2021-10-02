@@ -1,0 +1,16 @@
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\bin\Debug\netcoreapp3.1\Complet.newCrud.exe
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\bin\Debug\netcoreapp3.1\Complet.newCrud.deps.json
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\bin\Debug\netcoreapp3.1\Complet.newCrud.runtimeconfig.json
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\bin\Debug\netcoreapp3.1\Complet.newCrud.runtimeconfig.dev.json
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\bin\Debug\netcoreapp3.1\Complet.newCrud.dll
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\bin\Debug\netcoreapp3.1\Complet.newCrud.pdb
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\obj\Debug\netcoreapp3.1\Complet.newCrud.csproj.AssemblyReference.cache
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\obj\Debug\netcoreapp3.1\Complet.newCrud.GUI.Customer_Form.resources
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\obj\Debug\netcoreapp3.1\Complet.newCrud.csproj.GenerateResource.cache
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\obj\Debug\netcoreapp3.1\Complet.newCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\obj\Debug\netcoreapp3.1\Complet.newCrud.AssemblyInfoInputs.cache
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\obj\Debug\netcoreapp3.1\Complet.newCrud.AssemblyInfo.cs
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\obj\Debug\netcoreapp3.1\Complet.newCrud.csproj.CoreCompileInputs.cache
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\obj\Debug\netcoreapp3.1\Complet.newCrud.dll
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\obj\Debug\netcoreapp3.1\Complet.newCrud.pdb
+C:\Users\ferad\source\repos\Complet.newCrud\Complet.newCrud\obj\Debug\netcoreapp3.1\Complet.newCrud.genruntimeconfig.cache
